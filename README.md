@@ -1,21 +1,32 @@
 # Project 3: Spots
 
-### Overview  
+an image sharing site
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## desription
+
+This website is an image sharing website in which users may create unique profiles and sheir their photos with the world!
+
+## tech stack
+
+This project combines many of the things I have learned in TripleTen bootcamp.
+The major focus of this project being responsive design. Some other technologies used are:
+-HTML
+-CSS
+
+## images
+
+below are some images showing some of the basic designs of the website especially showcasing the use of media queries for responsive design.
+![html screenshot](<Screenshot 2026-02-07 at 2.22.09 PM.png>)
+![css screenshot](<Screenshot 2026-02-07 at 2.22.37 PM.png>)
+![css screenshot](<Screenshot 2026-02-07 at 2.23.12 PM.png>)
+![css screenshot](<Screenshot 2026-02-07 at 2.23.22 PM.png>)
+![Figma design](<Spots App 1440px 4.png>)
+
+## deployment
+
+this webpage is deployed to github pages
+-deployment link:
+
+## pitch video
+
+-pitch video link:
