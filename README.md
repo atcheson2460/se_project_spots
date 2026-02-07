@@ -25,7 +25,7 @@ below are some images showing some of the basic designs of the website especiall
 ## deployment
 
 this webpage is deployed to github pages
--deployment link:
+-deployment link: https://atcheson2460.github.io/se_project_spots
 
 ## pitch video
 

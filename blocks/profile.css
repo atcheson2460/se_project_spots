@@ -53,6 +53,10 @@
   padding-right: 8px;
 }
 
+.profile__add-btn:hover {
+  background: rgba(33, 33, 33, 0.8);
+}
+
 .profile__edit-btn {
   margin-top: auto;
   border: none;
@@ -68,6 +72,10 @@
 
 #profile__edit-btn_image {
   margin-right: 8px;
+}
+
+.profile__edit-btn:hover {
+  opacity: 100%;
 }
 
 .profile__avatar {
