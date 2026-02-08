@@ -6,11 +6,10 @@
 }
 
 .footer__paragraph {
-  height: 16px;
-  width: 104px;
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 100%;
   margin: 0;
+  color: #212121b2;
 }
