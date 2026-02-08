@@ -61,6 +61,7 @@
 .profile__edit-btn {
   margin-top: auto;
   border: none;
+  color: #212121;
   background-color: transparent;
   opacity: 0.7;
   padding: 0;
@@ -70,6 +71,7 @@
   font-size: 16px;
   line-height: 100%;
   cursor: pointer;
+  display: flex;
 }
 
 #profile__edit-btn_image {
