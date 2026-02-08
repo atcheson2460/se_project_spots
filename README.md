@@ -29,4 +29,4 @@ this webpage is deployed to github pages
 
 ## pitch video
 
--pitch video link: https://www.loom.com/share/932e5d627b894fd09f5511c5eb042c87
+-pitch video link: https://drive.google.com/file/d/1L6TkzzaGGkCIKIv_kupqBbFsivIkwgoj/view?usp=sharing
