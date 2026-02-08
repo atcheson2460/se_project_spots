@@ -16,10 +16,10 @@ The major focus of this project being responsive design. Some other technologies
 ## images
 
 below are some images showing some of the basic designs of the website especially showcasing the use of media queries for responsive design.
-![html screenshot](<Screenshot 2026-02-07 at 2.22.09 PM.png>)
-![css screenshot](<Screenshot 2026-02-07 at 2.22.37 PM.png>)
-![css screenshot](<Screenshot 2026-02-07 at 2.23.12 PM.png>)
-![css screenshot](<Screenshot 2026-02-07 at 2.23.22 PM.png>)
+![HTML example](<Screenshot 2026-02-07 at 2.22.09 PM-1.png>)
+![CSS/responsive design example](<Screenshot 2026-02-07 at 2.22.37 PM-1.png>)
+![CSS/Responsive design example](<Screenshot 2026-02-07 at 2.23.12 PM-1.png>)
+![CSS/Responsive design example](<Screenshot 2026-02-07 at 2.23.22 PM-1.png>)
 ![Figma design](<Spots App 1440px 4.png>)
 
 ## deployment
