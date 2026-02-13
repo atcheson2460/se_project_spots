@@ -51,7 +51,7 @@
   font-family: Poppins, Arial, Helvetica, sans-serif;
   cursor: pointer;
 }
-.profile__add-btn_image {
+.profile__add-btn-image {
   padding-right: 8px;
 }
 
@@ -76,7 +76,7 @@
   align-items: center;
 }
 
-.profile__edit-btn_image {
+.profile__edit-btn-image {
   margin-right: 8px;
 }
 
