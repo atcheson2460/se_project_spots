@@ -2,9 +2,9 @@
 
 an image sharing site
 
-## desription
+## description
 
-This website is an image sharing website in which users may create unique profiles and sheir their photos with the world!
+This website is an image sharing website in which users may create unique profiles and share their photos with the world!
 
 ## tech stack
 
